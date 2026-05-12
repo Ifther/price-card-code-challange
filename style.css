@@ -115,3 +115,9 @@ ul {
 li {
   padding-bottom:10px;
 }
+@media (max-width:1240px) {
+  #battom-left-card, #bottom-right-card, #card {
+    height:auto;
+    width:100%;
+  }
+}
